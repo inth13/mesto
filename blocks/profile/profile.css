@@ -1,5 +1,5 @@
 .profile {
-    width: 880px;
+    width: calc(100% - 2 * 200px);
     height: 120px;
     display: flex;
     padding: 40px 0 0;
