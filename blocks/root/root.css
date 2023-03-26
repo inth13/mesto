@@ -1,0 +1,8 @@
+.root {
+    background-color: #000;
+    color: #FFF;
+    max-width: 1280px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+}
