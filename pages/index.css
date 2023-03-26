@@ -1,5 +1,15 @@
 @import "../vendor/normalize.css";
+@import "../vendor/fonts/fonts.css";
+
 @import "../blocks/root/root.css";
 
 @import "../blocks/header/header.css";
 @import "../blocks/header/__logo/header__logo.css";
+
+@import "../blocks/profile/profile.css";
+@import "../blocks/profile/__avatar/profile__avatar.css";
+@import "../blocks/profile/__info/profile__info.css";
+@import "../blocks/profile/__title/profile__title.css";
+@import "../blocks/profile/__subtitle/profile__subtitle.css";
+@import "../blocks/profile/__edit-button/profile__edit-button.css";
+@import "../blocks/profile/__mask/profile__mask.css";

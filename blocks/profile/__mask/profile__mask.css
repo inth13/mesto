@@ -1,0 +1,6 @@
+.profile__mask {
+    border-radius: 50%;
+    overflow: hidden;
+    /*background-color: blue;*/
+    margin-right: 30px;
+}

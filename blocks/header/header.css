@@ -3,4 +3,6 @@
     width: 880px;
     height: 74px;
     display: flex;
+    padding-top: 45px;
+    margin: 0 auto;
 }
