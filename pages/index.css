@@ -20,4 +20,7 @@
 @import "../blocks/element/__title/element__title.css";
 @import "../blocks/element/__group/element__group.css";
 @import "../blocks/element/__img/element__img.css";
+
+@import "../blocks/footer/footer.css";
+@import "../blocks/footer/__copyright/footer__copyright.css";
 /** { outline: 1px solid yellow; }*/
