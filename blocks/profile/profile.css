@@ -1,8 +1,22 @@
 .profile {
-    width: calc(100% - 2 * 200px);
-    height: 120px;
+    /*width: calc(100% - 2 * 200px);*/
+    min-height: 120px;
     display: flex;
-    padding: 40px 0 0;
+    /*padding: 40px 0;*/
+    padding-top: 40px;
     margin: 0 auto;
+    /*max-width: 880px;*/
+    width: 100%;
 
+}
+
+@media screen and (max-width: 920px) {
+    .profile {
+        /*padding: 42px 19px 36px;*/
+        flex-direction: column;
+        justify-content: flex-start;
+        align-items: center;
+        width: 282px;
+        min-height: 286px;
+    }
 }

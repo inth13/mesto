@@ -2,6 +2,7 @@
 @import "../vendor/fonts/fonts.css";
 
 @import "../blocks/root/root.css";
+@import "../blocks/page/page.css";
 
 @import "../blocks/header/header.css";
 @import "../blocks/header/__logo/header__logo.css";
@@ -13,3 +14,10 @@
 @import "../blocks/profile/__subtitle/profile__subtitle.css";
 @import "../blocks/profile/__edit-button/profile__edit-button.css";
 @import "../blocks/profile/__mask/profile__mask.css";
+
+@import "../blocks/elements/elements.css";
+@import "../blocks/element/element.css";
+@import "../blocks/element/__title/element__title.css";
+@import "../blocks/element/__group/element__group.css";
+@import "../blocks/element/__img/element__img.css";
+/** { outline: 1px solid yellow; }*/

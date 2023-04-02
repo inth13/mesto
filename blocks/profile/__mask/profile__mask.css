@@ -3,4 +3,12 @@
     overflow: hidden;
     /*background-color: blue;*/
     margin-right: 30px;
+    max-width: 120px;
+    min-height: 120px;
+}
+
+@media screen and (max-width: 920px) {
+    .profile__mask {
+        margin-right: 0;
+    }
 }

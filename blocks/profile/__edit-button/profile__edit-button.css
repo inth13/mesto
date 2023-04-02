@@ -5,4 +5,12 @@
     background: url("../../../images/edit-button.svg") no-repeat center;
     margin-bottom: 8px;
     align-self: flex-end;
+    box-sizing: border-box;
+}
+
+@media screen and (max-width: 920px) {
+    .profile__edit-button {
+        height: 18px;
+        width: 18px;
+    }
 }
