@@ -6,6 +6,12 @@
     margin-bottom: 8px;
     align-self: flex-end;
     box-sizing: border-box;
+    cursor: pointer;
+    transition: opacity .6s ease;
+}
+
+.profile__edit-button:hover {
+    opacity: 0.8;
 }
 
 @media screen and (max-width: 920px) {

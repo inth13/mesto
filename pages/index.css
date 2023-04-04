@@ -23,4 +23,15 @@
 
 @import "../blocks/footer/footer.css";
 @import "../blocks/footer/__copyright/footer__copyright.css";
+
+@import "../blocks/popup/popup.css";
+@import "../blocks/popup/__content/popup__content.css";
+@import "../blocks/popup/__close/popup__close.css";
+@import "../blocks/popup/__open/popup__open.css";
+@import "../blocks/popup/__title/popup__title.css";
+@import "../blocks/popup/__close-btn/popup__close-btn.css";
+
+@import "../blocks/form/form.css";
+@import "../blocks/form/__input-text/form__input-text.css";
+@import "../blocks/form/__save-button/form__save-button.css";
 /** { outline: 1px solid yellow; }*/

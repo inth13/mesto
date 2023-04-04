@@ -7,6 +7,12 @@
     align-self: center;
     background: url("../../../images/add-button-plus.png") center no-repeat;
     display: flex;
+    cursor: pointer;
+    transition: opacity .6s ease;
+}
+
+.profile__add-button:hover {
+    opacity: 0.8;
 }
 
 @media screen and (max-width: 920px) {
