@@ -1,17 +1,23 @@
-# Проект: Место
+# Проект MESTO
 
-### Обзор
 
-* Figma
-* Картинки
+Вёрстка адаптивного сайта в рамках курса «Веб-разработчик» от сервиса Яндекс Практикум
 
-**Figma**
+Создан по макету в [*Figma*](https://www.figma.com/file/2cn9N9jSkmxD84oJik7xL7/JavaScript.-Sprint-4?node-id=28212-2&t=vymB1o3yHT8hoqQN-0)
 
-* [Ссылка на макет в Figma](https://www.figma.com/file/2cn9N9jSkmxD84oJik7xL7/JavaScript.-Sprint-4?node-id=0%3A1)
+## Технологии
 
-**Картинки**
+- HTML
+- CSS
+- BEM
+- GitHub Pages
+- Flexbox
+- Grid
+- JavaScript
+## Автор
 
-Доставать картинки предстоит из Фигмы. Это расхожая практика, поэтому полезно потренироваться.
-Не забудьте [оптимизировать картинки](https://tinypng.com/), чтобы ваш сайт загружался быстрее.
+Игорь Михайлов
 
-Удачи!
+## Проект доступен по ссылке
+
+https://inth13.github.io/mesto/
