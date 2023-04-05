@@ -1,7 +1,7 @@
 .popup {
     display: flex;
     position: fixed;
-    top: 70px;
+    top: 0;
     left: 0;
     right: 0;
     bottom: 0;
@@ -9,11 +9,5 @@
     justify-content: center;
     z-index: 10;
     visibility: hidden;
-    background-color: rgba(0, 0, 0, 0.6);
-}
-
-@media screen and (max-width: 640px) {
-    .popup {
-        top: -60px;
-    }
+    background-color: rgba(0, 0, 0, 0.5);
 }
