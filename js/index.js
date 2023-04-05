@@ -10,14 +10,14 @@ let formJob = popup.querySelector(".popup__job");
 
 function openPopup() {
     console.log("click edit button");``
-    popup.classList.add("popup__open");
+    popup.classList.add("popup__opened");
     formName.value = profileName.textContent;
     formJob.value = profileJob.textContent;
 }
 
 function closePopup() {
     console.log('click close');
-    popup.classList.remove("popup__open");
+    popup.classList.remove("popup__opened");
 }
 
 function handleFormSubmit(evt) {
