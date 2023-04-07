@@ -34,4 +34,6 @@
 @import "../blocks/form/form.css";
 @import "../blocks/form/__input-text/form__input-text.css";
 @import "../blocks/form/__save-button/form__save-button.css";
+
+@import "../blocks/like-button/like-button.css";
 /** { outline: 1px solid yellow; }*/
