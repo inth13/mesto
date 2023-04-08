@@ -4,8 +4,6 @@
     border-radius: 10px;
     overflow: hidden;
     position: relative;
-    /*!*width: 282px;*!  дает поле справа */
-    /*height: 361px;*/
     background: #FFFFFF;
     color: #000000;
 }
