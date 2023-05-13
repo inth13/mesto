@@ -22,7 +22,8 @@
 @import "../blocks/element/__group/element__group.css";
 @import "../blocks/element/__img/element__img.css";
 @import "../blocks/element/__like-button/element__like-button.css";
-
+@import "../blocks/element/__like-button/_active/element__like-button_active.css";
+@import "../blocks/element/__delete/element__delete.css";
 @import "../blocks/footer/footer.css";
 @import "../blocks/footer/__copyright/footer__copyright.css";
 
@@ -31,6 +32,10 @@
 @import "../blocks/popup/_opened/popup_opened.css";
 @import "../blocks/popup/__title/popup__title.css";
 @import "../blocks/popup/__close-btn/popup__close-btn.css";
+@import "../blocks/popup/__fallback/popup__fallback.css";
+@import "../blocks/popup/__picture/popup__picture.css";
+@import "../blocks/popup/__image-container/popup__image-container.css";
+@import "../blocks/popup/__text/popup__text.css";
 
 @import "../blocks/form/form.css";
 @import "../blocks/form/__input-text/form__input-text.css";
