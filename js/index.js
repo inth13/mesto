@@ -44,7 +44,7 @@ const closeCard = popupAddCard.querySelector('.popup__close-btn');
 const cardsTemplate = document.querySelector('.cards-template').content.querySelector('.element');
 const cardElementsContainer = document.querySelector('.elements');
 
-const popupImageContainer = document.querySelector('.popup__image-container');
+const popupImageContainer = document.querySelector('.popup_type_image-container');
 const popupPicture = popupImageContainer.querySelector('.popup__picture');
 const popupText = popupImageContainer.querySelector('.popup__text');
 const closeImage = popupImageContainer.querySelector('.popup__close-btn');
